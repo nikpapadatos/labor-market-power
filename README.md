@@ -56,4 +56,5 @@ or connect on [LinkedIn](https://www.linkedin.com/in/nikolaospapadatos)
 
 ---
 
-*(Full thesis PDF available in `/paper/` or [here](paper/Nikolaos_Papadatos_Capstone_Project.pdf))*
+*(Full thesis PDF available in `/paper/` or [here](paper/papadatos_labor-market-power.pdf))*
+
