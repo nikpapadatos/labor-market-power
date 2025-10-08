@@ -56,5 +56,5 @@ or connect on [LinkedIn](https://www.linkedin.com/in/nikolaospapadatos)
 
 ---
 
-*(Full thesis PDF available in `/paper/` or [here](paper/papadatos_labor-market-power.pdf))*
+*(Full thesis PDF available in `/paper/` or [here](paper/papadatos_imperfect-competition-labor-markets.pdf)*
 
